@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # RPC connection details
-
+RPC_CONNECT="84.247.182.145"
+RPC_USER="user_222"
+RPC_PASSWORD="oHUfdkZMEmJM"
 # Extended Public Key (XPUB)
 XPUB="xpub6Cx5tvq6nACSLJdra1A6WjqTo1SgeUZRFqsX5ysEtVBMwhCCRa4kfgFqaT2o1kwL3esB1PsYr3CUdfRZYfLHJunNWUABKftK2NjHUtzDms2"
 
