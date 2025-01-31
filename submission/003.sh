@@ -27,5 +27,5 @@ for TXID in $TX_IDS; do
 done
 
 # Print the total number of new outputs
-echo "Total new outputs in block $BLOCK_HEIGHT: $TOTAL_OUTPUTS"
+echo "$TOTAL_OUTPUTS"
 # How many new outputs were created by block 123,456?
