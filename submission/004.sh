@@ -9,7 +9,7 @@ RPC_PASSWORD="oHUfdkZMEmJM"
 XPUB="xpub6Cx5tvq6nACSLJdra1A6WjqTo1SgeUZRFqsX5ysEtVBMwhCCRa4kfgFqaT2o1kwL3esB1PsYr3CUdfRZYfLHJunNWUABKftK2NjHUtzDms2"
 
 # Derivation path for index 100 (BIP-86 Taproot standard)
-DERIVATION_PATH="/99"
+DERIVATION_PATH="/100"
 
 # Descriptor for Taproot (BIP-86)
 DESCRIPTOR="tr($XPUB/$DERIVATION_PATH)"
